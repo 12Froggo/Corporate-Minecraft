@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "example-mod:block/condensed_dirt"
+      "model": "corporate-minecraft:block/computer"
     }
   }
 }

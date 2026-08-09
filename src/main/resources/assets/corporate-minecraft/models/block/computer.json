@@ -1,7 +1,6 @@
 {
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/cube_all",
 	"textures": {
 		"0": "corporate-minecraft:block/772905854",
 		"1": "corporate-minecraft:block/images",
