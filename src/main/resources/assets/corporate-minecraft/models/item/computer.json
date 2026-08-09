@@ -1,0 +1,49 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"0": "corporate-minecraft:block/772905854",
+		"1": "corporate-minecraft:block/images",
+		"2": "corporate-minecraft:block/8x-screw",
+		"3": "corporate-minecraft:block/mac-macbook-pro-size-select-202601-14inch",
+		"particle": "corporate-minecraft:block/772905854"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"faces": {
+				"north": {"uv": [1.56182, 3.66365, 14.44269, 4.07521], "texture": "#1"},
+				"east": {"uv": [8.944, 11.264, 13.28, 11.568], "texture": "#0"},
+				"south": {"uv": [2.704, 11.248, 13.296, 11.568], "texture": "#0"},
+				"west": {"uv": [2.704, 11.264, 6.864, 11.568], "texture": "#0"},
+				"up": {"uv": [1.61733, 3.51264, 14.26715, 12.5343], "texture": "#1"},
+				"down": {"uv": [1.58242, 0.95165, 15.01538, 14.59341], "texture": "#2"}
+			}
+		},
+		{
+			"from": [0.1, 0, 0],
+			"to": [15.9, 14, 1],
+			"rotation": {"angle": -7.5, "axis": "x", "origin": [0, 1, 0]},
+			"faces": {
+				"north": {"uv": [1.94783, 5.8029, 8.02319, 10.11014], "texture": "#3"},
+				"east": {"uv": [6.69565, 5.93623, 7.83768, 10.05797], "texture": "#3"},
+				"south": {"uv": [3.68, 5.312, 12.336, 11.056], "texture": "#0"},
+				"west": {"uv": [2.15652, 6.02899, 4.15652, 9.89565], "texture": "#3"},
+				"up": {"uv": [1.9942, 6.10366, 7.74493, 7.10656], "texture": "#3"},
+				"down": {"uv": [0, 14, 16, 16], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}
